@@ -1,7 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Daniel
- * Date: 10/3/2018
- * Time: 23:55
- */
+session_start();
+// Destroys all sessions.
+if(session_destroy())
+{
+// Redirecting To Log-In
+    header("Location: login.php");
+}
