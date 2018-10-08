@@ -6,18 +6,16 @@
     <h3 class="w3-bar-item">Menu</h3>
     <a href="logout.php" class="w3-bar-item w3-button w3-blue-gray">Log out</a>
     <h6 class="w3-bar-item w3-blue">Account</h6>
-    <a href="myplan.php" class="w3-bar-item w3-button">Change password</a>
-    <a href="changepassword.php" class="w3-bar-item w3-button">Menu item</a>
-    <a href="dailyplan.php" class="w3-bar-item w3-button">Other menu item</a>
+    <a href="changepassword.php" class="w3-bar-item w3-button">Change password</a>
+    <a href="newaccount.php" class="w3-bar-item w3-button">Create a new account</a>
+    <a href="settings.php" class="w3-bar-item w3-button">Quoting settings</a>
 
     <h6 class="w3-bar-item w3-blue">Customers</h6>
-    <a href="makeplan.php" class="w3-bar-item w3-button">Napravi dnevni plan</a>
-    <a href="listbuses.php" class="w3-bar-item w3-button">Autobusi</a>
-    <a href="listdrivers.php" class="w3-bar-item w3-button">Vozači</a>
-    <a href="listtour.php" class="w3-bar-item w3-button">Turažni listovi</a>
-    <a href="absences.php" class="w3-bar-item w3-button">Odsustva</a>
-    <a href="changeuserpass.php" class="w3-bar-item w3-button">Promena lozinke vozača</a>
-
+    <a href="list_customers.php" class="w3-bar-item w3-button">List customers</a>
+    <a href="addquote.php" class="w3-bar-item w3-button">Add quotes</a>
+    <a href="uploadfiles.php" class="w3-bar-item w3-button">Upload files</a>
+    <a href="reports.php" class="w3-bar-item w3-button">Reports (soon)</a>
+    <a href="soldquotes.php" class="w3-bar-item w3-button">Sold quotes (soon)</a>
 
 
 </div>
